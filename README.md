@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gandalf2532
 - 👀 I’m interested in programming and learning new stuff.
-- 🌱 I’m currently learning python, web development, arduino... 
+- 🌱 I’m currently learning python, web development, arduino, Rust... 
 
 <p style="width:100%"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gandalf2532&theme=github_dark&layout=compact&text_color=cd5f20&title_color=cd5f20&hide_border=true&card_width=445&border_radius=10&lang_count=25" alt="Gandalf2532" /></p>
 
