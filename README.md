@@ -4,9 +4,9 @@
 
 - #### 👯 Check out some of my friends!
 
-| [thetechtim](https://github.com/thetechtim)                                                                | [itsmoritz266](https://github.com/itsmoritz266)                                                           | [lumentae](https://github.com/lumentae)                                                                   |
+| [thetechtim](https://github.com/thetechtim)                                                                | [lumentae](https://github.com/lumentae)                                                                   | [itsmoritz266](https://github.com/itsmoritz266)                                                           |
 | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-|<p align="center"><img src="https://avatars.githubusercontent.com/u/205191628?v=4" width="64" height="64" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/199896953" width="64" height="64"><p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/66220444" width="64" height="64" /></p> |
+|<p align="center"><img src="https://avatars.githubusercontent.com/u/205191628?v=4" width="64" height="64" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/66220444" width="64" height="64" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/199896953" width="64" height="64"><p> |
 
 <p style="width:100%"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gandalf2532&theme=github_dark&layout=compact&text_color=cd5f20&title_color=cd5f20&hide_border=true&card_width=445&border_radius=10&lang_count=25" alt="Gandalf2532" /></p>
 
